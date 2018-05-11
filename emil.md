@@ -20,3 +20,8 @@ git push // to push to github clone
 git remote set-url --add origin url_address // add origin
 git remote set-url --delete origin url_address // delete origin
 
+Let's update.
+git add . 
+git commit -m "comment message"
+git status
+git push
