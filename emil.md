@@ -22,6 +22,8 @@ git remote set-url --delete origin url_address // delete origin
 
 Let's update.
 git add . 
+or
+git add filename
 git commit -m "comment message"
 git status
 git push
