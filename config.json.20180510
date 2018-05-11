@@ -1,0 +1,34 @@
+{
+  "disabled_mode": false,
+  "detailed_logging": false,
+  "account": "council",
+  "memo_key": "5KLc3PU5xNjsFn8phGykrxZdobXhsbYTxy5DX7swzBnfbpnPQ4",
+  "posting_key": "5JkehbokXtzGM9hHaqnDdTSoCC12VFS29p1hVvwJwPdCPTmdnUE",
+  "active_key": "5KdGrDW61rNjS3bfcmZ8cNKKiH9s9Mn1vPoyyCjjWJrpS767fqJ",
+  "auto_claim_rewards" : true,
+  "post_rewards_withdrawal_account": null,
+  "vote_weight": 10000,
+"whitelist_only": true,
+"whitelist_location": "whitelist.txt",
+"comment_location": "comment.md",
+"resteem": true,
+"flag_signal_accounts": ["spaminator", "cheetah", "steemcleaners", "mack-bot"],
+"blacklisted_tags": ["nsfw"],
+"whitelisted_tags": ["your-community-tag"],
+  "api": {
+    "enabled": true,
+    "port": 3100
+  },
+  "membership": {
+    "start_date": "3/17/2018",
+    "membership_period_days": 30,
+    "delegation_vests": 20390,
+    "full_delegation_vests": 203000,
+    "dues_steem": 1,
+    "dues_steem_no_delegation": 2
+  },
+  "transfer_memos": {
+  "whitelist_only": "This bot is for community members only. Please contact the community leaders @Yehey to get added to the whitelist in order to join.",
+  "member_valid_thru": "Membership updated for @{to}. Membership valid through: {tag}.",
+  "member_full_delegation": "Membership updated for @{to}. Full amount delegated, membership is valid indefinitely while delegation remains."
+}

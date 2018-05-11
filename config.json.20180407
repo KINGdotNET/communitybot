@@ -1,0 +1,23 @@
+{
+  "disabled_mode": false,
+  "detailed_logging": false,
+  "account": "council",
+  "memo_key": "5KLc3PU5xNjsFn8phGykrxZdobXhsbYTxy5DX7swzBnfbpnPQ4",
+  "posting_key": "5JkehbokXtzGM9hHaqnDdTSoCC12VFS29p1hVvwJwPdCPTmdnUE",
+  "active_key": "5KdGrDW61rNjS3bfcmZ8cNKKiH9s9Mn1vPoyyCjjWJrpS767fqJ",
+  "auto_claim_rewards" : true,
+  "post_rewards_withdrawal_account": null,
+  "vote_weight": 10000,
+  "api": {
+    "enabled": true,
+    "port": 3100
+  },
+  "membership": {
+    "start_date": "3/17/2018",
+    "membership_period_days": 30,
+    "delegation_vests": 60000,
+    "full_delegation_vests": 120000,
+    "dues_steem": 1,
+    "dues_steem_no_delegation": 2
+  }
+}
