@@ -4,7 +4,9 @@ This is a voting bot for communities on the Steem platform. Members of the commu
 
 ## Installation
 ```
-$ git clone https://github.com/MattyIce/communitybot.git
+# $ git clone https://github.com/MattyIce/communitybot.git
+$ git clone https://github.com/KINGdotNET/communitybot.git
+$ cd communitybot
 $ npm install
 ```
 
