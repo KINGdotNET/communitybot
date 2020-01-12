@@ -28,8 +28,8 @@
     "dues_steem_no_delegation": 2
   },
 	"transfer_memos": {
-		"whitelist_only": "This bot is for community members only. Please contact the community leaders to get added to the whitelist in order to join.",
-		"member_valid_thru": "Membership updated for @{to}. Membership valid through: {tag}.",
-		"member_full_delegation": "Membership updated for @{to}. Full amount delegated, membership is valid indefinitely while delegation remains."
+		"whitelist_only": "This bot is for community members only. Please contact the community leaders @Yehey to get added to the whitelist in order to join. Thank you.",
+		"member_valid_thru": "Membership updated for @{to}. Membership valid through: {tag}. Thank you for being a member of our Community Shared SP Upvoting Service. Share the good news to our fellow steemian. Thank you @Yehey",
+		"member_full_delegation": "Membership updated for @{to}. Full amount delegated, membership is valid indefinitely while delegation remains. Share the good news to fellow steemian, invite them to join. Thank you @Yehey."
 	}
 }
